@@ -20,7 +20,7 @@ This repository contains some of the talks given given the MEALOR DAYS
   comme*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALORDAYS2026_DOITRAND.pptx)
 - Hugo Girard (Laboratoire Matéis, INSA Lyon). [*Straight or curve crack
   at V-notch tip
-  ?](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALOR_Days2_2026-06-08_straight_or_curved.pptx)
+  ?*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALOR_Days2_2026-06-08_straight_or_curved.pptx)
 - Andrey Latyshev (University of Luxembourg, Sorbonne Université).
   [*Effect of surface imperfections on fracture nucleation in
   phase-field*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/Andrey_Latyshev_MEALOR_2026.pdf)
