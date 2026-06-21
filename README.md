@@ -15,9 +15,7 @@ This repository contains some of the talks given given the MEALOR DAYS
 
 ### Nucléation
 
-- Aurélien Doitrand (Laboratoire Matéis, INSA Lyon). [*L’amorçage de
-  fissures dans les matériaux fragiles vu
-  comme*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALORDAYS2026_DOITRAND.pptx)
+- Aurélien Doitrand (Laboratoire Matéis, INSA Lyon). [*Description dynamique de l’amorçage de fissures dans les matériaux fragiles sous chargement quasi-statique*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALORDAYS2026_DOITRAND.pptx)
 - Hugo Girard (Laboratoire Matéis, INSA Lyon). [*Straight or curve crack
   at V-notch tip
   ?*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALOR_Days2_2026-06-08_straight_or_curved.pptx)
