@@ -13,6 +13,12 @@ This repository contains some of the talks given given the MEALOR DAYS
 
 ## Regular talks
 
+### Mechanical tests
+
+- Bastien LAMMENS. [*Influence de la vitesse de propagation de fissure
+  sur KIC d’une résine époxy en considérant les effets
+  géométriques*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/Lammens_MEALORV2.pdf)
+
 ### Nucléation
 
 - Aurélien Doitrand (Laboratoire Matéis, INSA Lyon). [*Description dynamique de l’amorçage de fissures dans les matériaux fragiles sous chargement quasi-statique*](https://github.com/thelfer/MEALORDAYS_2026/blob/main/Talks/MEALORDAYS2026_DOITRAND.pptx)
